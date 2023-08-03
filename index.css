@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#power{
+    background-color:black;
+    height: 40vh;
+    
+}
+.powerbg{
+    background-image: url(./power.jpeg);
+    height: 40vh;
+}
+.fast{
+    background-color: rgb(255, 255, 255);
+    height: 70vh;
+}
+#our{
+  background-color: black;
+  border-radius: 2rem;
+  height: 200vh;
+}
+#some{
+    background-color: rgb(0, 0, 0);
+    border-radius: 2rem;
+    height: 60vh;
+}
+#end{
+    background-color: black;
+    border-radius: 2rem;
+    height: 130vh;
+}
+
+
+
+        
+
+
+
